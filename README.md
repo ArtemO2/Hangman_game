@@ -1,1 +1,1 @@
-Gallows game realised using Javascript
+Hangman game realised using Javascript
